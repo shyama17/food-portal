@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+<style>
+<!--
+BODY {font: 10pt "Arial"};
+H1{font:20pt/22pt "Times New Roman";
+font-weight:bol; color:#7B2628; text-align:center}
+H2{font:17pt "Times New Roman"; text-align:center;
+font-weight:bold;
+color:#801416}
+H3{font:15pt "times new roman"; font-weight:bold; color:#2A6EC0; text-align:center}
+P{font:12pt "Arial"; color:#597F21}
+IMG{align-content:center; height:200; width:200;} 
+--!>
+</style>
+
